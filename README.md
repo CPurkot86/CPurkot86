@@ -1,16 +1,32 @@
-### Hi there 👋
+## Olá! Eu sou o Cleverson Purkot, Analista de Qualidade de Software!
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**CPurkot86/CPurkot86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando em automações com Cypress.
+- 👯 Estou procurando colaborar em assuntos relacionados a automações e Testes de Software,
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Purkot86">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purkot86&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purkot86&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Purkot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Purkot-Cypress" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqNopirvD3HU4gqvBKYcHQTEI7bao4VR8ximm_0vGGJYNTPuoZYVmDPqphFmxQh9FWhc&usqp=CAU" />
+  <img align="center" alt="Purkot-Postman" height="30" width="40" src="https://koraypeker.com/wp-content/uploads/2020/04/postman.jpg" />
+  <img align="center" alt="Purkot-JMeter" height="30" width="40" src="https://test-engineer.site/wp-content/uploads/2020/08/jmeter-tutorial.png" />
+  <img align="center" alt="Purkot-browserstack" height="30" width="40" src="https://miro.medium.com/max/776/1*6GFF3VDozRcHA4UpaSMcYQ.png" />
+  <img align="center" alt="Purkot-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Purkot-pic" height="150" style="border-radius:50px;" src="https://github.com/Purkot86/Processos_fluxos_QA/blob/main/Avatar.jpeg?raw=true">
+</div>
+          
+##
+
+<div>
+<a href="https://www.instagram.com/cpurkot/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:cleverson.purkot@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cleverson-purkot-299249174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+![Snake animation](https://github.com/Purkot86/Purkot86/blob/output/github-contribution-grid-snake.svg)
+
+</div>
