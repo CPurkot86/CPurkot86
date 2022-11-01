@@ -14,7 +14,7 @@
   <img align="center" alt="Purkot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Purkot-Cypress" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqNopirvD3HU4gqvBKYcHQTEI7bao4VR8ximm_0vGGJYNTPuoZYVmDPqphFmxQh9FWhc&usqp=CAU" />
   <img align="center" alt="Purkot-Postman" height="30" width="40" src="https://koraypeker.com/wp-content/uploads/2020/04/postman.jpg" />
-  <img align="center" alt="Purkot-JMeter" height="30" width="40" src="https://test-engineer.site/wp-content/uploads/2020/08/jmeter-tutorial.png" />
+  <img align="center" alt="Purkot-JMeter" height="30" width="40" src="https://blog.onesaitplatform.com/wp-content/uploads/2022/06/header_jmeter.jpg" />
   <img align="center" alt="Purkot-browserstack" height="30" width="40" src="https://miro.medium.com/max/776/1*6GFF3VDozRcHA4UpaSMcYQ.png" />
   <img align="center" alt="Purkot-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Purkot-pic" height="150" style="border-radius:50px;" src="https://github.com/Purkot86/Processos_fluxos_QA/blob/main/Avatar.jpeg?raw=true">
